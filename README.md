@@ -1,5 +1,5 @@
 # HackerzRec - Image Recognition API
-Made by Bharath, Abhisehk, & Harsh.
+Made by Bharath, Abhishek, & Harsh.
 
 ## Login
 <img src="/images/Login.png" width="850" alt="login_screenshot">
